@@ -58,3 +58,6 @@ devDependencies:
   tailwindcss: "^2.2.19"
   tailwindcss-rtl: "^0.8.0"
   typescript: "^4.5.2"
+
+#start template in production mode
+yarn start
