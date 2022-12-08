@@ -1,0 +1,1160 @@
+{
+  "productFlashSellList": [
+    {
+      "id": 1,
+      "name": "Adidas 4DFWD 2 Shoes",
+      "description": "Great catch! This exclusive product is only available at adidas and can't be found anywhere else. This product is excluded from all promotional discounts and offers.",
+      "slug": "adidas-4dfwd-2-shoes",
+      "isNewArrival": true,
+      "brand": "Adidas",
+      "url": "https://www.adidas.com/us/4dfwd-2-shoes/GX9258.html",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/adidas-4dfwd-2-shoes.png",
+        "original": "/assets/images/products/adidas-4dfwd-2-shoes.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-11-1.png",
+          "original": "/assets/images/products/p-11-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-11-2.png",
+          "original": "/assets/images/products/p-11-2.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-11-3.png",
+          "original": "/assets/images/products/p-11-3.png"
+        },
+        {
+          "id": 4,
+          "thumbnail": "/assets/images/products/p-11-4.png",
+          "original": "/assets/images/products/p-11-4.png"
+        }
+      ],
+      "price": 200,
+      "variations": [
+        {
+          "id": 1,
+          "value": "6",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 2,
+          "value": "6.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 3,
+          "value": "7",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 4,
+          "value": "7.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 5,
+          "value": "8",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 6,
+          "value": "8.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 7,
+          "value": "9",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 8,
+          "value": "9.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 9,
+          "value": "10",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 10,
+          "value": "10.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 11,
+          "value": "11",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 7,
+          "value": "Impact Orange",
+          "meta": "#e86c25",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        },
+        {
+          "id": 6,
+          "value": "Carbon",
+          "meta": "#484344",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Wayfarer Sunglasses",
+      "description": "Our optical engineers developed these sunglasses for hiking. Ideal for occasional use in the mountains.",
+      "slug": "wayfarer-sunglasses",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-27-sm.png",
+        "original": "/assets/images/products/p-27-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-27-1.png",
+          "original": "/assets/images/products/p-27-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-27-2.png",
+          "original": "/assets/images/products/p-27-2.png"
+        }
+      ],
+      "price": 25.0,
+      "sale_price": 20.0,
+      "quantity": 267,
+      "sold": 120,
+      "variations": [
+        {
+          "id": 1,
+          "value": "S",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 2,
+          "value": "M",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 3,
+          "value": "L",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 4,
+          "value": "XL",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 5,
+          "value": "Orange",
+          "meta": "#e86c25",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 6,
+          "value": "Pink",
+          "meta": "#ffa5b4",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 7,
+          "value": "Purple",
+          "meta": "#8224e3",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 8,
+          "value": "Red",
+          "meta": "#dd3333",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "NIKE Shoes",
+      "description": "NIKE 2020 Black White is a clean and monochromatic colourway of the label’s latest high-technology silhouette. The model first launched late last year and is currently Jordan Brand’s flagship performance pair.",
+      "slug": "nike-shoes",
+      "isNewArrival": true,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-24-sm.png",
+        "original": "/assets/images/products/p-24-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-24-1.png",
+          "original": "/assets/images/products/p-24-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-24-2.png",
+          "original": "/assets/images/products/p-24-2.png"
+        }
+      ],
+      "price": 80.0,
+      "sale_price": 50.0,
+      "quantity": 267,
+      "sold": 120,
+      "variations": [
+        {
+          "id": 1,
+          "value": "S",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 2,
+          "value": "M",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 3,
+          "value": "L",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 4,
+          "value": "XL",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 5,
+          "value": "Orange",
+          "meta": "#e86c25",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 6,
+          "value": "Pink",
+          "meta": "#ffa5b4",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 7,
+          "value": "Purple",
+          "meta": "#8224e3",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 8,
+          "value": "Red",
+          "meta": "#dd3333",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        }
+      ]
+    }
+  ],
+  "productFlashSellGrid": [
+    {
+      "id": 1,
+      "name": "Polarised Wayfarer Sunglasses",
+      "description": "This item is only exchangeable for the same or a different size, if available, and cannot be returned",
+      "slug": "polarised-wayfarer-sunglasses",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-25-md.png",
+        "original": "/assets/images/products/p-25-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-25-1.png",
+          "original": "/assets/images/products/p-25-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-25-2.png",
+          "original": "/assets/images/products/p-25-2.png"
+        }
+      ],
+      "price": 35.0,
+      "sale_price": 20.0,
+      "quantity": 320,
+      "sold": 180,
+      "variations": [
+        {
+          "id": 1,
+          "value": "S",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 2,
+          "value": "M",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 3,
+          "value": "L",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 4,
+          "value": "XL",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 5,
+          "value": "Orange",
+          "meta": "#e86c25",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 6,
+          "value": "Pink",
+          "meta": "#ffa5b4",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 7,
+          "value": "Purple",
+          "meta": "#8224e3",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 8,
+          "value": "Red",
+          "meta": "#dd3333",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Adidas Shoes Black",
+      "description": "Men Black top sleeveless gown",
+      "slug": "adidas-shoes-black",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-26-md.png",
+        "original": "/assets/images/products/p-26-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-26-1.png",
+          "original": "/assets/images/products/p-26-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-26-2.png",
+          "original": "/assets/images/products/p-26-2.png"
+        }
+      ],
+      "price": 99.99,
+      "sale_price": 45.0,
+      "quantity": 267,
+      "sold": 120,
+      "variations": [
+        {
+          "id": 1,
+          "value": "S",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 2,
+          "value": "M",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 3,
+          "value": "L",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 4,
+          "value": "XL",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 5,
+          "value": "Orange",
+          "meta": "#e86c25",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 6,
+          "value": "Pink",
+          "meta": "#ffa5b4",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 7,
+          "value": "Purple",
+          "meta": "#8224e3",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 8,
+          "value": "Red",
+          "meta": "#dd3333",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        }
+      ]
+    }
+  ],
+  "productFlashSellGridOne": [
+    {
+      "id": 1,
+      "name": "Armani Wide-Leg Trousers",
+      "description": "Monochrome elegance. Made with a relaxed wide-leg, these trousers are made from a sustainable soft organic cotton with a mechanical stretch making the garment easily recycled.",
+      "slug": "armani-wide-leg-trousers",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-16-lg.png",
+        "original": "/assets/images/products/p-16-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-16-1.png",
+          "original": "/assets/images/products/p-16-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-16-2.png",
+          "original": "/assets/images/products/p-16-2.png"
+        }
+      ],
+      "price": 80.0,
+      "sale_price": 60.0,
+      "quantity": 320,
+      "sold": 180,
+      "variations": [
+        {
+          "id": 1,
+          "value": "S",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 2,
+          "value": "M",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 3,
+          "value": "L",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 4,
+          "value": "XL",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 5,
+          "value": "Orange",
+          "meta": "#e86c25",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 6,
+          "value": "Pink",
+          "meta": "#ffa5b4",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 7,
+          "value": "Purple",
+          "meta": "#8224e3",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 8,
+          "value": "Red",
+          "meta": "#dd3333",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Scuba Stand Collar Topper Jacket",
+      "description": "Zara provides only the highest-quality selection of dresses, womens suits, and suited separates.",
+      "slug": "scuba-stand-collar-topper-jacket",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-15-lg.png",
+        "original": "/assets/images/products/p-15-md.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-15-1.png",
+          "original": "/assets/images/products/p-15-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-15-2.png",
+          "original": "/assets/images/products/p-15-2.png"
+        }
+      ],
+      "price": 16.0,
+      "sale_price": 12.0,
+      "quantity": 320,
+      "sold": 180,
+      "variations": [
+        {
+          "id": 1,
+          "value": "S",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 2,
+          "value": "M",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 3,
+          "value": "L",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 4,
+          "value": "XL",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "size"
+          }
+        },
+        {
+          "id": 5,
+          "value": "Orange",
+          "meta": "#e86c25",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 6,
+          "value": "Pink",
+          "meta": "#ffa5b4",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 7,
+          "value": "Purple",
+          "meta": "#8224e3",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        },
+        {
+          "id": 8,
+          "value": "Red",
+          "meta": "#dd3333",
+          "attribute": {
+            "id": 1,
+            "name": "Color",
+            "slug": "color"
+          }
+        }
+      ]
+    }
+  ],
+  "productFlashSellGridTwo": [
+    {
+      "id": 1,
+      "name": "Reebok Classic Leather SP Women's Shoes",
+      "description": "Get all the OG details when you lace up these women's Classic Leather shoes.",
+      "slug": "reebok-classic-leather-sp-womens-shoes",
+      "isNewArrival": true,
+      "brand": "Reebok",
+      "url": "https://www.reebok.com/us/classic-leather-sp-women-s-shoes/GW4465.html",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/67f8603e3cde42709591ae7e014df9fd_9366.jpg",
+        "original": "/assets/images/products/67f8603e3cde42709591ae7e014df9fd_9366.jpg"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-11-1.png",
+          "original": "/assets/images/products/p-11-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-11-2.png",
+          "original": "/assets/images/products/p-11-2.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-11-3.png",
+          "original": "/assets/images/products/p-11-3.png"
+        },
+        {
+          "id": 4,
+          "thumbnail": "/assets/images/products/p-11-4.png",
+          "original": "/assets/images/products/p-11-4.png"
+        }
+      ],
+      "price": 85,
+      "variations": [
+        {
+          "id": 1,
+          "value": "5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 3,
+          "value": "6",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 4,
+          "value": "6.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 5,
+          "value": "7",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 6,
+          "value": "7.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 7,
+          "value": "8",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 8,
+          "value": "8.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 9,
+          "value": "9",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 10,
+          "value": "9.5",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 11,
+          "value": "10",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 7,
+          "value": "White",
+          "meta": "#dfdfdf",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        },
+        {
+          "id": 6,
+          "value": "True Beige",
+          "meta": "#b88154",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Reebok Active Foundation Badge Hat",
+      "description": "Through pick-up games and holiday weekends, this all-cotton hat keeps sun off your face.",
+      "slug": "reebok-active-foundation-badge-hat",
+      "isNewArrival": true,
+      "brand": "Reebok",
+      "url": "https://www.reebok.com/us/active-foundation-badge-hat/GN8404.html",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/5fc0c62f2d634c969d40ac6800bb0873_9366.jpg",
+        "original": "/assets/images/products/5fc0c62f2d634c969d40ac6800bb0873_9366.jpg"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-11-1.png",
+          "original": "/assets/images/products/p-11-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-11-2.png",
+          "original": "/assets/images/products/p-11-2.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-11-3.png",
+          "original": "/assets/images/products/p-11-3.png"
+        },
+        {
+          "id": 4,
+          "thumbnail": "/assets/images/products/p-11-4.png",
+          "original": "/assets/images/products/p-11-4.png"
+        }
+      ],
+      "price": 20,
+      "sale_price": 14.97,
+      "variations": [
+        {
+          "id": 1,
+          "value": "1SZ",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 12,
+          "value": "Black",
+          "meta": "#36353b",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        },
+        {
+          "id": 13,
+          "value": "Harmony Green",
+          "meta": "#a5ab9e",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        },{
+          "id": 13,
+          "value": "Vector Navy",
+          "meta": "#252a39",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        },{
+          "id": 13,
+          "value": "White",
+          "meta": "#e9e8eb",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Puma Campus Mini Grip Bag",
+      "description": "We borrowed the crisp lines and sporty varsity-inspired style from the hallowed halls of academia and retro classics.",
+      "slug": "puma-campus-mini-grip-bag",
+      "isNewArrival": true,
+      "brand": "Puma",
+      "url": "https://us.puma.com/us/en/pd/campus-mini-grip-bag/078825?size=0100",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/puma1.jpeg",
+        "original": "/assets/images/products/puma1.jpeg"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-11-1.png",
+          "original": "/assets/images/products/p-11-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-11-2.png",
+          "original": "/assets/images/products/p-11-2.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-11-3.png",
+          "original": "/assets/images/products/p-11-3.png"
+        },
+        {
+          "id": 4,
+          "thumbnail": "/assets/images/products/p-11-4.png",
+          "original": "/assets/images/products/p-11-4.png"
+        }
+      ],
+      "price": 35,
+      "variations": [
+        {
+          "id": 1,
+          "value": "1SZ",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 12,
+          "value": "Puma Black",
+          "meta": "#343338",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Puma Phase Backpack",
+      "description": "Designed with the modern athlete in mind, the Phase Backpack is both stylish and functional.",
+      "slug": "puma-phase-backpack",
+      "isNewArrival": true,
+      "brand": "Puma",
+      "url": "https://us.puma.com/us/en/pd/phase-backpack/075487",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/puma2.jpeg",
+        "original": "/assets/images/products/puma2.jpeg"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-11-1.png",
+          "original": "/assets/images/products/p-11-1.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-11-2.png",
+          "original": "/assets/images/products/p-11-2.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-11-3.png",
+          "original": "/assets/images/products/p-11-3.png"
+        },
+        {
+          "id": 4,
+          "thumbnail": "/assets/images/products/p-11-4.png",
+          "original": "/assets/images/products/p-11-4.png"
+        }
+      ],
+      "price": 25,
+      "variations": [
+        {
+          "id": 1,
+          "value": "1SZ",
+          "attribute": {
+            "id": 1,
+            "name": "Size",
+            "slug": "available sizes"
+          }
+        },
+        {
+          "id": 12,
+          "value": "Peacoat",
+          "meta": "#1e2139",
+          "attribute": {
+            "id": 1,
+            "name": "Available Colors",
+            "slug": "available colors"
+          }
+        }
+      ]
+    }
+  ]
+}

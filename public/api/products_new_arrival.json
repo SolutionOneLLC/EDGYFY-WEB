@@ -1,0 +1,1097 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas 4DFWD 2 Shoes",
+    "description": "Great catch! This exclusive product is only available at adidas and can't be found anywhere else. This product is excluded from all promotional discounts and offers.",
+    "slug": "adidas-4dfwd-2-shoes",
+    "isNewArrival": true,
+    "brand": "Adidas",
+    "url": "https://www.adidas.com/us/4dfwd-2-shoes/GX9258.html",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/adidas-4dfwd-2-shoes.png",
+      "original": "/assets/images/products/adidas-4dfwd-2-shoes.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200,
+    "variations": [
+      {
+        "id": 1,
+        "value": "6",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 2,
+        "value": "6.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 3,
+        "value": "7",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 4,
+        "value": "7.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 5,
+        "value": "8",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 6,
+        "value": "8.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 7,
+        "value": "9",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 8,
+        "value": "9.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 9,
+        "value": "10",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 10,
+        "value": "10.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 11,
+        "value": "11",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Impact Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Carbon",
+        "meta": "#484344",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost DNA Shoes",
+    "description": "Responsive everyday running shoes made in part with Parley Ocean Plastic.",
+    "slug": "adidas-ultraboost-dna-shoes",
+    "url": "https://www.adidas.com/us/ultraboost-dna-shoes/GV8718.html",
+    "brand": "Adidas",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/adidas-ultraboost-dna-shoes.png",
+      "original": "/assets/images/products/adidas-ultraboost-dna-shoes.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-22-1.png",
+        "original": "/assets/images/products/p-22-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-22-2.png",
+        "original": "/assets/images/products/p-22-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-12-3.png",
+        "original": "/assets/images/products/p-12-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-12-4.png",
+        "original": "/assets/images/products/p-12-4.png"
+      }
+    ],
+    "price": 190,
+    "sale_price": 130,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "6",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 2,
+        "value": "6.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 3,
+        "value": "7",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 4,
+        "value": "7.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 5,
+        "value": "8",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 6,
+        "value": "8.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 7,
+        "value": "9",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 8,
+        "value": "9.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 9,
+        "value": "10",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 10,
+        "value": "10.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 11,
+        "value": "11",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Cloud White",
+        "meta": "#e4e3ea",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Almost Pink",
+        "meta": "#e6e1de",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "H&M Twill Overshirt",
+    "description": "Overshirt in twill with a collar, buttons at front, and yoke at back. Chest pockets with flap and button. Long sleeves with buttons at cuffs.",
+    "slug": "h-and-m-twill-overshirt",
+    "isNewArrival": true,
+    "url": "https://www2.hm.com/en_us/productpage.0875217036.html",
+    "brand": "H&M",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/hmgoepprod.jpeg",
+      "original": "/assets/images/products/hmgoepprod.jpeg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-18-1.png",
+        "original": "/assets/images/products/p-18-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-18-2.png",
+        "original": "/assets/images/products/p-18-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-18-3.png",
+        "original": "/assets/images/products/p-18-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-18-4.png",
+        "original": "/assets/images/products/p-18-4.png"
+      }
+    ],
+    "price": 34.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Dark Brown",
+        "meta": "#5c4c40",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Green",
+        "meta": "#2d8ba4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 7,
+        "value": "White/Black",
+        "meta": "#aaacae",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "H&M Leather Pants",
+    "description": "Pants in soft leather with a seam at knees. High waist, concealed zipper with button at one side of waistband, and slim legs, flared below knees.",
+    "slug": "h-and-m-leather-pants",
+    "isNewArrival": true,
+    "url": "https://www2.hm.com/en_us/productpage.1014767005.html",
+    "brand": "H&M",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/Hp1.jpeg",
+      "original": "/assets/images/products/Hp1.jpeg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-18-1.png",
+        "original": "/assets/images/products/p-18-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-18-2.png",
+        "original": "/assets/images/products/p-18-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-18-3.png",
+        "original": "/assets/images/products/p-18-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-18-4.png",
+        "original": "/assets/images/products/p-18-4.png"
+      }
+    ],
+    "price": 34.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Dark Brown",
+        "meta": "#5c4c40",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Green",
+        "meta": "#2d8ba4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 7,
+        "value": "White/Black",
+        "meta": "#aaacae",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nike ZoomX Zegama",
+    "description": "Navigate the up and downs of uncompromising terrain with the Nike ZoomX Zegama. Developed with great grip and stability, it has you covered, so you can keep climbing and reach greater personal heights when the going gets grimy and gritty. Whether it's a challenging, rocky landscape going uphill or a steep, slick decline down a treacherous trail, feel confident when you decide to off-road it.",
+    "slug": "nike-zoomx-zegama",
+    "isNewArrival": true,
+    "brand": "Nike",
+    "url": "https://www.nike.com/t/zoomx-zegama-mens-trail-running-shoes-1t400b/DH0623-002",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/64acf11e-3220-4631-854d-a99b1b7b6932.jpeg",
+      "original": "/assets/images/products/64acf11e-3220-4631-854d-a99b1b7b6932.jpeg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 160,
+    "variations": [
+      {
+        "id": 1,
+        "value": "6",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 2,
+        "value": "6.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 3,
+        "value": "7",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 4,
+        "value": "7.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 5,
+        "value": "8",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 6,
+        "value": "8.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 7,
+        "value": "9",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 8,
+        "value": "9.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 9,
+        "value": "10",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 10,
+        "value": "10.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 11,
+        "value": "11",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 12,
+        "value": "Ironstone",
+        "meta": "#c84b5a",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 13,
+        "value": "Black",
+        "meta": "#262324",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 14,
+        "value": "Deep Royal Blue",
+        "meta": "#182e6b",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Nike Air Zoom Alphafly NEXT% 2",
+    "description": "Once you take a few strides in the Nike Air Zoom Alphafly NEXT% 2, you’ll never look at your favorite pair of old racing shoes the same way again. These rocket ships are made to help shave precious time off your personal records without surrendering the foundation you need to go the full distance. A thick, lightweight support system marries the 2 worlds of comfort and speed in holy running matrimony. Enjoy the greatest energy return of all our racing shoes while you chase your personal bests.",
+    "slug": "nike-air-zoom-alphafly-next-2",
+    "isNewArrival": true,
+    "brand": "Nike",
+    "url": "https://www.nike.com/t/air-zoom-alphafly-next-2-mens-road-racing-shoes-Bstm8X/DN3555-800",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/d5373f6a-9832-4a47-8729-ffe8afe4ee1b.jpeg",
+      "original": "/assets/images/products/d5373f6a-9832-4a47-8729-ffe8afe4ee1b.jpeg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 160,
+    "variations": [
+      {
+        "id": 1,
+        "value": "6",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 2,
+        "value": "6.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 3,
+        "value": "7",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 4,
+        "value": "7.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 5,
+        "value": "8",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 6,
+        "value": "8.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 7,
+        "value": "9",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 8,
+        "value": "9.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 9,
+        "value": "10",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 10,
+        "value": "10.5",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 11,
+        "value": "11",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 12,
+        "value": "Total Orange",
+        "meta": "#f16446",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 13,
+        "value": "Mint Foam",
+        "meta": "#a0d8c0",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Fila 5 Panel Camper Hat",
+    "description": "Camper Hat",
+    "slug": "fila-5-panel-camper-hat",
+    "isNewArrival": true,
+    "brand": "Fila",
+    "url": "https://www.fila.com/5-panel-camper-hat/HT14092A.html?dwvar_HT14092A_size=1SZ&dwvar_HT14092A_color=436&fromList=Search%20Results%3A%20hats&gridposition=13",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/HT14092A_436_01_e.jpeg",
+      "original": "/assets/images/products/HT14092A_436_01_e.jpeg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 30,
+    "variations": [
+      {
+        "id": 1,
+        "value": "1SZ",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 12,
+        "value": "French Navy",
+        "meta": "#00214a",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },
+      {
+        "id": 13,
+        "value": "Duck Green",
+        "meta": "#486b11",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },{
+        "id": 13,
+        "value": "Lime Punch",
+        "meta": "#fede00",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      },{
+        "id": 13,
+        "value": "Cherry Tomato",
+        "meta": "#e75b2c",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Fila Tie Dye Bucket Hat",
+    "description": "Don't like the sun, put one of our tie dye bucket hats on your dome. Comfortable, highly packable & super-stylish too. Iconic Everywhere. #FILAstyle",
+    "slug": "tie-dye-bucket-hat",
+    "isNewArrival": true,
+    "brand": "Fila",
+    "url": "https://www.fila.com/tie-dye-bucket-hat/HT14615A.html?dwvar_HT14615A_size=1SZ&dwvar_HT14615A_color=900&fromList=Search%20Results%3A%20hat&gridposition=6",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/fp2.jpeg",
+      "original": "/assets/images/products/fp2.jpeg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 35,
+    "variations": [
+      {
+        "id": 1,
+        "value": "1SZ",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      },
+      {
+        "id": 12,
+        "value": "Tie Dye",
+        "meta": "#f9bbd2",
+        "attribute": {
+          "id": 1,
+          "name": "Available Colors",
+          "slug": "available colors"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ray-Ban Wayfarer Liteforce",
+    "description": "A member of the Tech Sunglasses Collection, Wayfarer Literforce sunglasses resemble an outstanding combination of innovative material and the unmistakable iconic Wayfarer design.",
+    "slug": "ray-ban-wayfarer-liteforce",
+    "isNewArrival": true,
+    "brand": "Ray-Ban",
+    "url":"https://www.ray-ban.com/usa/sunglasses/RB4195%20MALE%20wayfarer%20liteforce-blue/8053672879186",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/8053672879186__002.png",
+      "original": "/assets/images/products/8053672879186__002.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-19-1.png",
+        "original": "/assets/images/products/p-19-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-19-2.png",
+        "original": "/assets/images/products/p-19-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-19-3.png",
+        "original": "/assets/images/products/p-19-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-19-4.png",
+        "original": "/assets/images/products/p-19-4.png"
+      }
+    ],
+    "price": 211.0,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ray-Ban Elliot Limited Edition",
+    "description": "Meet Elliot, the newest member of the easy-going Leonard family – with a modern geometry and clean, slender lines it’s a lesson in effortless chic. For this limited edition online exclusive, the minimalist frame comes in a high-contrast, yellow flecked Havana acetate with classic Blue sun lenses. ",
+    "slug": "ray-ban-wayfarer-liteforce",
+    "isNewArrival": true,
+    "brand": "Ray-Ban",
+    "url":"https://www.ray-ban.com/usa/sunglasses/ELLIOT%20LIMITED%20EDITION-Yellow%20Havana/8056597795807",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/8056597139540__002.png",
+      "original": "/assets/images/products/8056597139540__002.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-19-1.png",
+        "original": "/assets/images/products/p-19-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-19-2.png",
+        "original": "/assets/images/products/p-19-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-19-3.png",
+        "original": "/assets/images/products/p-19-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-19-4.png",
+        "original": "/assets/images/products/p-19-4.png"
+      }
+    ],
+    "price": 163.0,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "available sizes"
+        }
+      }
+    ]
+  }
+]
