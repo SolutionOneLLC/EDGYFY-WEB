@@ -2,7 +2,9 @@ version: 0.0
 os: linux
 ---
 files:
-   destination: /srv/EDGYFIWEB
+- source: /
+  destination: /srv/EDGYFIWEB
+file_exists_behavior: OVERWRITE
 name: Edgyfi2.0
 version: 2.0.0
 private: true
