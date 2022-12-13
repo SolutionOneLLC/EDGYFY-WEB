@@ -60,6 +60,6 @@ devDependencies:
   typescript: "^4.5.2"
 
 files:
-   destination: /home
+   destination: /srv/EDGYFIWEB
 yarn build
 yarn start
