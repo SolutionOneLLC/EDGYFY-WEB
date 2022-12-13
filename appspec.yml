@@ -1,6 +1,8 @@
 version: 0.0
 os: linux
 ---
+files:
+   destination: /srv/EDGYFIWEB
 name: Edgyfi2.0
 version: 2.0.0
 private: true
