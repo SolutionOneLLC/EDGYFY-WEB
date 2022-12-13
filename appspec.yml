@@ -1,8 +1,6 @@
 version: 0.0
 os: linux
-files:
-  - source: /
-    destination: /
+---
 name: Edgyfi2.0
 version: 2.0.0
 private: true
@@ -60,5 +58,8 @@ devDependencies:
   tailwindcss: "^2.2.19"
   tailwindcss-rtl: "^0.8.0"
   typescript: "^4.5.2"
+
+files:
+   destination: /home
 yarn build
 yarn start
