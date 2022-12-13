@@ -1,6 +1,8 @@
 version: 0.0
 os: linux
 ---
+files:
+   destination: /srv/EDGYFIWEB
 name: Edgyfi2.0
 version: 2.0.0
 private: true
@@ -59,7 +61,6 @@ devDependencies:
   tailwindcss-rtl: "^0.8.0"
   typescript: "^4.5.2"
 
-files:
-   destination: /srv/EDGYFIWEB
+
 yarn build
 yarn start
