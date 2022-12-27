@@ -1,16 +1,17 @@
 ---
 version: 0
 os: Linux
+
+files:
+  - source: /
+    destination: /srv/EDGYFIWEB
+file_exists_behavior: OVERWRITE
 permissions:
   - object: /
     pattern: "**"
     except: null
     owner: ec2-user
     mode: 777
-files:
-  - source: /
-    destination: /srv/EDGYFIWEB
-file_exists_behavior: OVERWRITE
 hooks:
   BeforeInstall:
     - location: change_permissions.sh
