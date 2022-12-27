@@ -1,8 +1,12 @@
 ---
 version: 0
-os: linux
-
----
+os: Linux
+permissions:
+  - object: /
+    pattern: "**"
+    except: null
+    owner: ec2-user
+    mode: 777
 files:
   - source: /
     destination: /srv/EDGYFIWEB
@@ -15,4 +19,3 @@ hooks:
   AfterInstall:
     - location: change_permissions.sh
       timeout: 300
-      runas: root
