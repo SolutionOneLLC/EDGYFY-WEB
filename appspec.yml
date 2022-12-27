@@ -7,7 +7,7 @@ files:
     destination: /srv/EDGYFIWEB
 file_exists_behavior: OVERWRITE
 permissions:
-  - object: /
+  - object: /srv/EDGYFIWEB
     pattern: "**"
     except: null
     owner: ec2-user
