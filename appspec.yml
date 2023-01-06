@@ -5,7 +5,7 @@ os: linux
 ---
 files:
   - source: /
-    destination: /srv/EDGYFIWEB
+    destination: /srv/edgyfiweb
 file_exists_behavior: OVERWRITE
 hooks:
   AfterInstall:
